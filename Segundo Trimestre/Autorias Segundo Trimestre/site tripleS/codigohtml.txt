@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="visual.css" />
+</head>
+<body>
+    <nav>
+        <div class="logo">tripleS LOVELUTION</div>
+        <div class="nav-items">
+            <a href="/">Seoyeon</a>
+            <a href="/">Hyerin</a>
+            <a href="/">Yubin</a>
+            <a href="/">Kaede</a>
+            <a href="/">Dahyun</a>
+            <a href="/">Nien</a>
+            <a href="/">Sohyun</a>
+            <a href="/">Xinyu</a>
+        </div>
+    </nav>
+    <section class="hero">
+        <div class="hero-container">
+            <div class="column-left">
+                <h1>Conheça LOVELUTION, a nova sub-unit do tripleS!</h1>
+                <p>Seu primeiro mini álbum "<ↀ>" lançará dia 17 de agosto em todas as plataformas musicais e contará com um total de 8 músicas inéditas.</p>
+                <button>Escute uma prévia!</button>
+            </div>
+            <div class="column-right">
+                <img src="https://pbs.twimg.com/media/F2IdoWQaYAAgdF1?format=jpg&name=medium" alt="illustration"
+                class="hero-image">
+            </div>
+        </div>
+    </section>
+</body>
+</html>
